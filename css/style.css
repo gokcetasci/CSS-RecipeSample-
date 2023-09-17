@@ -1,0 +1,33 @@
+body {
+    background-color: darksalmon;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+
+p#firstp {
+    text-align: center;    
+}
+
+.first {
+    padding-left: 40%;
+}
+
+.secondimg {
+    text-align: center;
+}
+
+.second {
+    padding-left: 20%;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
